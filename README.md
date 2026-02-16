@@ -39,6 +39,7 @@ Download and install the latest [.NET 10 SDK](https://dotnet.microsoft.com/en-us
 
 ## Umbraco 17 (LTS)
 
+
 ### NuGet Package Method
 
 ```powershell
